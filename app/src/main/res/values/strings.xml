@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">My Story App</string>
+    <string name="signup">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="message_welcome_page">Terhubung dengan teman dan orang terdekatmu dengan menyenangkan </string>
+    <string name="title_welcome_page">Selamat datang di My Story App</string>
+    <string name="title_signup_page">Lengkapi data dirimu di bawah ini ya</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Masukkan dulu datamu ya</string>
+    <string name="title_login_page">Sudah siap berbagi cerita?</string>
+    <string name="name">Nama</string>
+    <string name="logout">Logout</string>
+    <string name="title_login">Hallo</string>
+    <string name="storyUsername">Username</string>
+    <string name="deskripsiStory">Description</string>
+    <string name="dicoding_story">Dicoding Story</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="upload">Upload</string>
+    <string name="editDeskripsi">Deskripsi</string>
+    <string name="enter_a_description">Masukkan deskripsi</string>
+    <string name="story_uploaded_successfully">Story berhasil diupload</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="maps_button">tombol maps</string>
+    <string name="normal_type">normal</string>
+    <string name="satellite_type">satellite</string>
+    <string name="terrain_type">terrain</string>
+    <string name="hybrid_type">hybrid</string>
+
+</resources>
